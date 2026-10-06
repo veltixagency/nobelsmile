@@ -1,0 +1,6 @@
+{
+  "name": "Demo Clinic - Modern & Comprehensive Dental Care",
+  "description": "Demo Clinic provides gentle, professional, and modern dental care with expert dentists, cutting-edge technology, and seamless online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
